@@ -1,14 +1,26 @@
 [
-  {"team":"Buffalo","name":"Josh Allen","number":17,"position":"QB"},
-  {"team":"Buffalo","name":"Stefon Diggs","number":14,"position":"WR"},
-
-  {"team":"Miami","name":"Tua Tagovailoa","number":1,"position":"QB"},
-  {"team":"Miami","name":"Tyreek Hill","number":10,"position":"WR"},
-
-  {"team":"Kansas City","name":"Patrick Mahomes","number":15,"position":"QB"},
-  {"team":"Kansas City","name":"Travis Kelce","number":87,"position":"TE"},
-
-  {"team":"Dallas","name":"Dak Prescott","number":4,"position":"QB"},
-
-  {"team":"San Francisco","name":"Christian McCaffrey","number":23,"position":"RB"}
+  {
+    "first_name": "Patrick",
+    "last_name": "Mahomes",
+    "nickname": "Mahomes",
+    "number": 15,
+    "position": "QB",
+    "team": "The Kansas City Falcons"
+  },
+  {
+    "first_name": "Josh",
+    "last_name": "Allen",
+    "nickname": "Allen",
+    "number": 17,
+    "position": "QB",
+    "team": "The Buffalo Wolves"
+  },
+  {
+    "first_name": "Tua",
+    "last_name": "Tagovailoa",
+    "nickname": "Tua",
+    "number": 1,
+    "position": "QB",
+    "team": "The Miami Dinosaurs"
+  }
 ]
