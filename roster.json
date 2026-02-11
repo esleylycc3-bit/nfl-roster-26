@@ -1,40 +1,17 @@
-{
-  "Buffalo Bills": [
-    {"name":"Josh Allen","number":"17","position":"QB"},
-    {"name":"James Cook","number":"4","position":"RB"},
-    {"name":"Stefon Diggs","number":"14","position":"WR"},
-    {"name":"Gabe Davis","number":"13","position":"WR"},
-    {"name":"Dalton Kincaid","number":"86","position":"TE"}
-  ],
+[
+  {"team":"Buffalo","name":"Josh Allen","number":17,"position":"QB"},
+  {"team":"Buffalo","name":"Stefon Diggs","number":14,"position":"WR"},
 
-  "Miami Dolphins": [
-    {"name":"Tua Tagovailoa","number":"1","position":"QB"},
-    {"name":"Raheem Mostert","number":"31","position":"RB"},
-    {"name":"Tyreek Hill","number":"10","position":"WR"},
-    {"name":"Jaylen Waddle","number":"17","position":"WR"},
-    {"name":"Durham Smythe","number":"81","position":"TE"}
-  ],
+  {"team":"Miami","name":"Tua Tagovailoa","number":1,"position":"QB"},
+  {"team":"Miami","name":"Tyreek Hill","number":10,"position":"WR"},
 
-  "New England Patriots": [
-    {"name":"Mac Jones","number":"10","position":"QB"},
-    {"name":"Rhamondre Stevenson","number":"38","position":"RB"},
-    {"name":"JuJu Smith-Schuster","number":"16","position":"WR"},
-    {"name":"DeVante Parker","number":"11","position":"WR"},
-    {"name":"Hunter Henry","number":"85","position":"TE"}
-  ],
+  {"team":"Kansas City","name":"Patrick Mahomes","number":15,"position":"QB"},
+  {"team":"Kansas City","name":"Travis Kelce","number":87,"position":"TE"},
 
-  "New York Jets": [
-    {"name":"Aaron Rodgers","number":"8","position":"QB"},
-    {"name":"Breece Hall","number":"20","position":"RB"},
-    {"name":"Garrett Wilson","number":"17","position":"WR"},
-    {"name":"Allen Lazard","number":"13","position":"WR"},
-    {"name":"Tyler Conklin","number":"83","position":"TE"}
-  ],
+  {"team":"Dallas","name":"Dak Prescott","number":4,"position":"QB"},
 
-  "Baltimore Ravens": [
-    {"name":"Lamar Jackson","number":"8","position":"QB"},
-    {"name":"J.K. Dobbins","number":"27","position":"RB"},
-    {"name":"Mark Andrews","number":"89","position":"TE"},
+  {"team":"San Francisco","name":"Christian McCaffrey","number":23,"position":"RB"}
+]    {"name":"Mark Andrews","number":"89","position":"TE"},
     {"name":"Zay Flowers","number":"4","position":"WR"}
   ],
 
